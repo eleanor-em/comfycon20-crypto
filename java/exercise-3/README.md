@@ -33,3 +33,5 @@ Your task (for both `Alice` and `Bob`) is to:
 
 ### What now?
 You've just implemented an extremely simple end-to-end encrypted messaging system! Fore xtension, try adding a central server (so that it's actually worth it), and any other features you like. If you're feeling adventurous, maybe check out [https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/](https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/) for some more advanced crypto tricks.
+
+Also try messing around with different ways to approach the data models etc. Can you think of some pros and cons of the way I've designed the code base?
